@@ -1,0 +1,4 @@
+__pycache__
+node_modules
+chromedriver.exe
+geckodriver.log
